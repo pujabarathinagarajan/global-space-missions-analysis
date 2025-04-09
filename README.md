@@ -24,5 +24,48 @@ and outputs the filtered results based on command-line arguments.
 
 Before running the script, install the required dependencies using the following command:
 
-```bash
 pip install -r requirements.txt
+
+### Command Line Interface Usage
+python src/analyze_space_missions.py <data-file.csv> [OPTIONS]
+
+## Optional Filtering Arguments:
+
+-p
+Filter for missions that occurred in a prime numbered year.
+
+-a <integer>
+Filter for missions that occurred in a year divisible by the specified integer.
+
+--success
+Filter for missions that were successful (i.e., the "Successful?" field is True).
+
+--failure
+Filter for missions that failed (i.e., the "Successful?" field is False).
+
+--agency <agency_name>
+Filter for missions led by the specified agency.
+
+--destination <destination>
+Filter for missions with the specified destination.
+
+--manned
+Filter for missions that are manned.
+
+--unmanned
+Filter for missions that are unmanned.
+
+--country or -c <country_name>
+Filter for missions by the country of origin.
+
+```
+python src/analyze_space_missions.py data/global_space_missions.csv -p
+
+python src/analyze_space_missions.py data/global_space_missions.csv -a 5
+
+python src/analyze_space_missions.py data/global_space_missions.csv --success
+
+python src/analyze_space_missions.py data/global_space_missions.csv --unmanned --country USA
+
+python src/analyze_space_missions.py data/global_space_missions.csv --agency "NASA" --destination "Moon"
+
