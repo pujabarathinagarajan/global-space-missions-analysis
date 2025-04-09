@@ -1,0 +1,101 @@
+Mission Name,Year,Mission Type,Destination,Successful?,Lead Agency,Country of Origin
+Mission_1,1989,unmanned,Asteroids,False,NASA,USA
+Mission_2,1973,manned,Mars,True,Virgin Galactic,Russia
+Mission_3,1989,unmanned,Moon,True,NASA,Europe
+Mission_4,1994,unmanned,Saturn,False,Blue Origin,China
+Mission_5,1980,unmanned,Moon,True,NASA,Private
+Mission_6,1984,manned,Mars,False,SpaceX,Japan
+Mission_7,1984,manned,Moon,True,Roscosmos,China
+Mission_8,1998,unmanned,Mars,True,Blue Origin,Japan
+Mission_9,1974,unmanned,Jupiter,True,Roscosmos,China
+Mission_10,1984,manned,Jupiter,False,SpaceX,India
+Mission_11,1984,manned,Asteroids,True,NASA,USA
+Mission_12,1999,manned,Jupiter,True,ISRO,Europe
+Mission_13,1972,unmanned,Mars,True,SpaceX,China
+Mission_14,1989,manned,Venus,False,SpaceX,Russia
+Mission_15,1987,unmanned,Saturn,False,Roscosmos,Japan
+Mission_16,1992,unmanned,Mars,False,ISRO,Russia
+Mission_17,1993,manned,Mars,True,ISRO,China
+Mission_18,1986,unmanned,Moon,True,ISRO,China
+Mission_19,1986,manned,Saturn,True,NASA,India
+Mission_20,1982,unmanned,Moon,True,JAXA,Japan
+Mission_21,1992,unmanned,Moon,False,JAXA,Europe
+Mission_22,1977,unmanned,Earth orbit,True,ISRO,Russia
+Mission_23,1976,unmanned,Mars,True,NASA,Russia
+Mission_24,1994,unmanned,Jupiter,False,Blue Origin,Europe
+Mission_25,1978,unmanned,Saturn,True,Roscosmos,USA
+Mission_26,1981,unmanned,Jupiter,False,Blue Origin,India
+Mission_27,1999,manned,Venus,True,ISRO,USA
+Mission_28,1992,unmanned,Venus,False,CNSA,Russia
+Mission_29,1971,unmanned,Moon,False,NASA,Europe
+Mission_30,1998,manned,Saturn,False,Blue Origin,India
+Mission_31,1996,unmanned,Venus,False,Blue Origin,Japan
+Mission_32,1982,manned,Mars,False,Virgin Galactic,China
+Mission_33,1996,unmanned,Asteroids,True,JAXA,Private
+Mission_34,1983,manned,Moon,True,ESA,Japan
+Mission_35,1991,unmanned,Moon,False,ESA,Russia
+Mission_36,1999,manned,Moon,True,Virgin Galactic,Russia
+Mission_37,1997,unmanned,Venus,True,CNSA,Private
+Mission_38,1990,unmanned,Saturn,False,ESA,USA
+Mission_39,1986,manned,Venus,True,Blue Origin,USA
+Mission_40,1985,manned,Moon,False,Roscosmos,India
+Mission_41,1977,manned,Mars,False,ISRO,USA
+Mission_42,1975,manned,Earth orbit,True,ISRO,Japan
+Mission_43,1992,manned,Earth orbit,False,CNSA,India
+Mission_44,1996,unmanned,Mars,True,Roscosmos,Europe
+Mission_45,1974,unmanned,Venus,True,Roscosmos,Japan
+Mission_46,1971,manned,Earth orbit,False,SpaceX,China
+Mission_47,1983,manned,Mars,False,Roscosmos,India
+Mission_48,1987,unmanned,Saturn,False,ESA,Private
+Mission_49,1979,manned,Moon,False,JAXA,China
+Mission_50,1973,manned,Venus,False,CNSA,China
+Mission_51,1987,manned,Jupiter,False,Virgin Galactic,China
+Mission_52,1982,manned,Jupiter,True,SpaceX,India
+Mission_53,1991,manned,Saturn,True,NASA,Russia
+Mission_54,1987,manned,Mars,False,ESA,India
+Mission_55,1980,unmanned,Moon,True,Blue Origin,China
+Mission_56,1979,unmanned,Mars,True,Roscosmos,Russia
+Mission_57,1980,unmanned,Moon,False,Roscosmos,Japan
+Mission_58,1987,unmanned,Venus,False,Roscosmos,Russia
+Mission_59,1979,manned,Moon,False,ESA,Russia
+Mission_60,1996,unmanned,Saturn,False,ISRO,China
+Mission_61,1986,manned,Venus,False,Roscosmos,Russia
+Mission_62,1989,unmanned,Earth orbit,True,NASA,Russia
+Mission_63,1982,unmanned,Earth orbit,True,Blue Origin,Japan
+Mission_64,1986,unmanned,Mars,True,ISRO,Russia
+Mission_65,1982,manned,Venus,True,SpaceX,India
+Mission_66,1982,unmanned,Mars,True,Blue Origin,Europe
+Mission_67,1974,manned,Moon,True,JAXA,USA
+Mission_68,1996,unmanned,Venus,False,ISRO,China
+Mission_69,1996,unmanned,Moon,True,SpaceX,Russia
+Mission_70,1977,manned,Venus,True,ESA,Russia
+Mission_71,1998,manned,Saturn,False,NASA,Europe
+Mission_72,1977,unmanned,Earth orbit,False,CNSA,USA
+Mission_73,1986,manned,Earth orbit,True,CNSA,Europe
+Mission_74,1987,manned,Saturn,True,ISRO,India
+Mission_75,1983,manned,Moon,False,Virgin Galactic,India
+Mission_76,1983,unmanned,Earth orbit,True,CNSA,Private
+Mission_77,1982,manned,Jupiter,True,CNSA,Russia
+Mission_78,1986,manned,Earth orbit,False,Virgin Galactic,Japan
+Mission_79,1988,manned,Mars,True,Roscosmos,India
+Mission_80,1971,manned,Moon,True,JAXA,China
+Mission_81,1972,manned,Moon,False,Blue Origin,Europe
+Mission_82,1974,unmanned,Moon,False,Virgin Galactic,India
+Mission_83,1975,unmanned,Venus,True,NASA,India
+Mission_84,1998,unmanned,Jupiter,True,NASA,Japan
+Mission_85,1981,manned,Earth orbit,False,ESA,Europe
+Mission_86,1987,manned,Moon,False,JAXA,China
+Mission_87,1998,manned,Venus,True,JAXA,India
+Mission_88,1980,unmanned,Saturn,True,Blue Origin,USA
+Mission_89,1975,manned,Moon,True,Blue Origin,Russia
+Mission_90,1974,unmanned,Mars,True,ISRO,Japan
+Mission_91,1988,unmanned,Mars,False,JAXA,Private
+Mission_92,1992,unmanned,Jupiter,False,Virgin Galactic,India
+Mission_93,1975,manned,Jupiter,False,NASA,China
+Mission_94,1978,manned,Jupiter,False,NASA,India
+Mission_95,1996,unmanned,Moon,True,Blue Origin,Japan
+Mission_96,1974,manned,Saturn,True,ESA,Europe
+Mission_97,1991,unmanned,Moon,False,Virgin Galactic,Japan
+Mission_98,1976,unmanned,Saturn,True,CNSA,Private
+Mission_99,1985,manned,Earth orbit,True,ESA,Private
+Mission_100,1986,manned,Mars,False,ESA,Russia
